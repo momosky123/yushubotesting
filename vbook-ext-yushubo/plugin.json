@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "author": "yushubo-nu sinh",
+        "description": "them phan nu sinh"
+    },
+    "data": [
+      {
+        "name": "YuShuBo 【御书网】",
+        "author": "yushubo-nu sinh",
+        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/yushubo/plugin.zip",
+        "version": 2,
+        "source": "https://www.yushubo.com",
+        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/yushubo/icon.png",
+        "description": "Đọc truyện trên trang yushubo.com"
+      }
+    ]
+}
